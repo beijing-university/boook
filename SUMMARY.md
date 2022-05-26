@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🇨🇳 高卷知识库](README.md)
-  * [Hello ctf\*\*ker](readme/hello-motherf-ker.md)
+  * [欢迎\~ ctf\*\*ker](readme/huan-ying-ctfker.md)
 * [1.sql](1.sql.md)
   * [1.1 基本操作](1.1-ji-ben-cao-zuo.md)
   * [1.2 深入一点](1.2something.md)
